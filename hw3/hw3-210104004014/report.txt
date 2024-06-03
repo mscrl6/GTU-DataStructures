@@ -1,0 +1,16 @@
+Electronics Shop Inventory Report
+Generated on: 24 March 2024
+
+-------------------------------------------------------------------------
+| No.   | Category     | Name                 | Price      | Quantity   |
+-------------------------------------------------------------------------
+| 1     | TV           | LG TV                | $999.00    | 25         |
+| 2     | Laptop       | HP                   | $1700.00   | 30         |
+| 3     | Smart Watch  | Apple Watch          | $189.00    | 15         |
+-------------------------------------------------------------------------
+
+Summary: 
+- Total Number of Devices: 3
+- Total Inventory Value: $2888.0
+
+End of Report
